@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anshuman2604&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /><br><br>
-  <img src="https://github-contribution-grid.vercel.app/api?username=anshuman2604&theme=github-dark&area=true&hide_border=true" />
+  
 </p>
 
 ---
