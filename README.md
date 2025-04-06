@@ -1,72 +1,83 @@
-<!--
-**anshuman2604/anshuman2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><!-- GitHub Profile README for Anshuman Gupta -->
+<!-- GitHub Profile README for Anshuman Gupta -->
 
 <h1 align="center">Hi 👋, I'm Anshuman Gupta</h1>
-<h3 align="center">B.Tech CSE Student | Future Full Stack Developer | Web Dev & AIML Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Dev in Progress | B.Tech CSE | Hackathon Enthusiast | AIML & Web Dev Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;React+Native+Explorer;Hackathon+Lover;Full+Stack+Dev+in+Progress&center=true&width=440&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Dev+in+Progress;React+Native+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing **B.Tech in Computer Science** at **SRM IST**
-- 🌍 Based in **Uttar Pradesh, India**
-- 🧠 Currently learning: **Advanced Backend, UI Design, Full Stack Architecture**
-- 🏆 Love participating in **Hackathons** and building cool projects under pressure 😅
-- 🚀 My goal is to become a **Pro Full Stack Developer**
-- ☕ Fun Fact: I debug like a detective — lots of coffee, few clues, and a dramatic reveal.
+- 🎓 B.Tech CSE @ **SRM IST**
+- 🌏 Based in **Uttar Pradesh, India**
+- 💡 Exploring: **Full Stack Dev, Supabase, AI Integration**
+- ⚡ Hackathon addict — building under pressure is my superpower 🧠⚙️
+- 🎯 Goal: Become a rockstar Full Stack Developer (and maybe launch my own startup)
+- 🤹‍♂️ Fun Fact: I treat bugs like side quests 🐛
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: HTML, CSS, JavaScript  
-- ⚛️ Frontend: React.js, React Native  
-- 🛠️ Backend: Node.js, Express.js  
-- 🧰 Tools & DB: Supabase, MongoDB, SQL  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,express,mongodb,mysql,git,github,supabase&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,express,mongodb,mysql,supabase,git,github,vscode&perline=8" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Projects
+
+- 🔗 [**Hackathon Chat App**](https://github.com/anshuman2604/hackathon-chat-app) – Real-time chat with GunDB & Express
+- 🔗 [**AI Email Helper**](https://github.com/anshuman2604/ai-email-helper) – Gmail-integrated AI email tool
+- 🔗 [**Interactive Story App**](https://github.com/anshuman2604/interactive-story) – Choose-your-path storytelling (React Native + Expo)
+
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshuman2604&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman2604&layout=compact&theme=radical" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anshuman2604&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 📊 GitHub Stats
 
-<p align="left">
-  <a href="mailto:anshumang2604@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anshuman-gupta-471807307/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/anshuman2604" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshuman2604&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman2604&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak & Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anshuman2604&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /><br><br>
+  <img src="https://github-contribution-grid.vercel.app/api?username=anshuman2604&theme=github-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🛡️ Profile Badges
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/anshuman2604?label=Follow&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/anshuman2604?label=Stars&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=anshuman2604&style=for-the-badge" />
+</p>
+
+---
+
+### 📬 Let’s Connect
+
+<p align="center">
+  <a href="mailto:anshumang2604@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anshuman-gupta-471807307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/anshuman2604"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -76,4 +87,3 @@ Here are some ideas to get you started:
   <br/>
   <i>“Code hard, debug harder.”</i>
 </p>
-
