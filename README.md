@@ -53,6 +53,14 @@
 
 ---
 
+### 🎧 Vibes While I Code
+
+<p align="center">
+  <a href="https://open.spotify.com/user/3176ybeiqgo2zg3qen4tikeapfe4" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3176ybeiqgo2zg3qen4tikeapfe4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width="400" />
+  </a>
+</p>
+
 ### 🔥 GitHub Streak & Contributions
 
 <p align="center">
