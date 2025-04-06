@@ -53,14 +53,6 @@
 
 ---
 
-### 🎧 Recently Played Tracks
-
-<p align="center">
-  <a href="https://www.last.fm/user/anshuman26" target="_blank">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=anshuman26&count=5&cover=true&background=1c1c1c&border_color=ffffff&text_color=ffffff" alt="Anshuman's Last.fm Now Playing" />
-  </a>
-</p>
-
 
 
 ### 🔥 GitHub Streak & Contributions
