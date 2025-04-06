@@ -53,13 +53,14 @@
 
 ---
 
-### 🎧 Vibes While I Code
+### 🎧 Recently Played Tracks
 
 <p align="center">
-  <a href="https://open.spotify.com/user/3176ybeiqgo2zg3qen4tikeapfe4" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3176ybeiqgo2zg3qen4tikeapfe4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width="400" />
+  <a href="https://www.last.fm/user/anshuman26" target="_blank">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=anshuman26" alt="Anshuman's Last.fm Now Playing" />
   </a>
 </p>
+
 
 ### 🔥 GitHub Streak & Contributions
 
