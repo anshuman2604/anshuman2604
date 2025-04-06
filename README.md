@@ -30,9 +30,9 @@
 
 ### 🚀 Projects
 
-- 🔗 [**Hackathon Chat App**](https://github.com/anshuman2604/hackathon-chat-app) – Real-time chat with GunDB & Express
-- 🔗 [**AI Email Helper**](https://github.com/anshuman2604/ai-email-helper) – Gmail-integrated AI email tool
-- 🔗 [**Interactive Story App**](https://github.com/anshuman2604/interactive-story) – Choose-your-path storytelling (React Native + Expo)
+- 🔗 [**Weather App**](https://github.com/anshuman2604/weather-app) – Real-time weather update
+- 🔗 [**Choice Story**](https://github.com/anshuman2604/choice-story) – Choose-your-path storytelling
+- 🔗 [**Musify**](https://github.com/anshuman2604/musify) – spotify clone 
 
 ---
 
