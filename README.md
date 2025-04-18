@@ -15,7 +15,7 @@
 - 🌏 Based in **Uttar Pradesh, India**
 - 💡 Exploring: **Full Stack Dev, Supabase, AI Integration**
 - ⚡ Hackathon addict — building under pressure is my superpower 🧠⚙️
-- 🎯 Goal: Become a rockstar Full Stack Developer (and maybe launch my own startup)
+- 🎯 Goal: Become a Full Stack Developer (and maybe launch my own startup)
 - 🤹‍♂️ Fun Fact: I treat bugs like side quests 🐛
 
 ---
